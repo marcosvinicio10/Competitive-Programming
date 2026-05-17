@@ -3,7 +3,6 @@
 > A personal archive of solutions, notes and analysis for some of the world's most challenging programming olympiads.
 
 [![C++](https://img.shields.io/badge/C%2B%2B-Competitive%20Programming-blue)]()
-[![Python](https://img.shields.io/badge/Python-Algorithms-yellow)]()
 [![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-green)]()
 [![Status](https://img.shields.io/badge/Status-Training-red)]()
 
